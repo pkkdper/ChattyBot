@@ -45,7 +45,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../../../Topics/Data types/How are correct to declare a variable/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Data types/How are correct to declare a variable/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Data types/How are correct to declare a variable/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Data types/How are correct to declare a variable/src" isTestSource="false" />

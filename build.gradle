@@ -14,6 +14,7 @@ subprojects {
     apply plugin: 'java'
     apply plugin: 'kotlin'
     apply plugin: 'hyperskill'
+//    targetCompatibility = "1.8"
 
     def userJava = Integer.parseInt(JavaVersion.current().getMajorVersion())
     def hsJava = Integer.parseInt(hs.kotlin.javaVersion)

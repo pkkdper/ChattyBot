@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Standard output/We need to learn Kotlin">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Standard output/We need to learn Kotlin/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Standard output/We need to learn Kotlin/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Standard output/We need to learn Kotlin/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

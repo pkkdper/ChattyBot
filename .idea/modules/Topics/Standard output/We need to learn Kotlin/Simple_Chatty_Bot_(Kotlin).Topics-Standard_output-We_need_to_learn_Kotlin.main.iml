@@ -45,7 +45,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../../../Topics/Standard output/We need to learn Kotlin/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Standard output/We need to learn Kotlin/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Standard output/We need to learn Kotlin/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Standard output/We need to learn Kotlin/src" isTestSource="false" />

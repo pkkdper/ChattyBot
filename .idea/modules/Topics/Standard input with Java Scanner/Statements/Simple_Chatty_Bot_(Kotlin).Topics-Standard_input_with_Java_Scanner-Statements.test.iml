@@ -64,7 +64,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Statements/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Statements/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Statements/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Statements/test" />

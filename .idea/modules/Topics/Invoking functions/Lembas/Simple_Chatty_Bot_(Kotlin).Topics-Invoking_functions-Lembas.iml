@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Lembas">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Lembas/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Lembas/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Lembas/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

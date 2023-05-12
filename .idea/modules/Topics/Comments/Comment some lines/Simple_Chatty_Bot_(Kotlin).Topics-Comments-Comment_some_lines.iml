@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Comments/Comment some lines">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comments/Comment some lines/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comments/Comment some lines/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Comments/Comment some lines/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

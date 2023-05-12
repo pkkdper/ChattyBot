@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/String templates/Date and time formatting">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String templates/Date and time formatting/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String templates/Date and time formatting/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String templates/Date and time formatting/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

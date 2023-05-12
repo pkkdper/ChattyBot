@@ -64,7 +64,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Integer division/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Integer division/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Integer division/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Integer division/test" />

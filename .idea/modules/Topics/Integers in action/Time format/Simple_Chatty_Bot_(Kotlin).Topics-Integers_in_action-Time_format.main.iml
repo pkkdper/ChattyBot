@@ -45,7 +45,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Time format/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Time format/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Time format/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Time format/src" isTestSource="false" />

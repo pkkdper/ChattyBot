@@ -64,7 +64,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Data types/Theory/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Data types/Theory/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Data types/Theory/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Data types/Theory/test" />

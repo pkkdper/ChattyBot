@@ -64,7 +64,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Printing each word in a new line/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Printing each word in a new line/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Printing each word in a new line/src/test" />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Printing each word in a new line/test" />

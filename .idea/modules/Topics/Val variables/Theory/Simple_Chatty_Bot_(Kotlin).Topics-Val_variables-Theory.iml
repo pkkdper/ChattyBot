@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Val variables/Theory">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Val variables/Theory/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Val variables/Theory/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Val variables/Theory/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

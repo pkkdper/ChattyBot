@@ -45,7 +45,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Theory/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Theory/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Theory/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Theory/src" isTestSource="false" />

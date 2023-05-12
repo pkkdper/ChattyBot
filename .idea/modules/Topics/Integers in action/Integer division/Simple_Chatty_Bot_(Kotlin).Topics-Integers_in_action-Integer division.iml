@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Integer division">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Integer division/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Integer division/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Integer division/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

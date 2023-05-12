@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Time difference">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Time difference/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Time difference/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Time difference/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Theory">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Theory/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Theory/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Theory/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

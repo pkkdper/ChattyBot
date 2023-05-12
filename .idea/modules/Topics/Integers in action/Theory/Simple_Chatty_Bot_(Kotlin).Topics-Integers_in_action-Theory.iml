@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Theory">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Theory/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Theory/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Integers in action/Theory/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

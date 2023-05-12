@@ -45,7 +45,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../../../Topics/String templates/What are string templates/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../../../Topics/String templates/What are string templates/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/String templates/What are string templates/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/String templates/What are string templates/src" isTestSource="false" />

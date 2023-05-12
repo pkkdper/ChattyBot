@@ -45,7 +45,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Statements/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Statements/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Statements/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Standard input with Java Scanner/Statements/src" isTestSource="false" />

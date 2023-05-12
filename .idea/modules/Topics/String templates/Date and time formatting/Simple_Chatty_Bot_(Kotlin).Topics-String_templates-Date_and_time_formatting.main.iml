@@ -45,7 +45,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../../../Topics/String templates/Date and time formatting/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../../../Topics/String templates/Date and time formatting/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/String templates/Date and time formatting/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/String templates/Date and time formatting/src" isTestSource="false" />

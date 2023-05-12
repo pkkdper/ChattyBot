@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../../Topics/String templates/What are string templates">
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String templates/What are string templates/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String templates/What are string templates/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String templates/What are string templates/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

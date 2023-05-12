@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../Simple Chatty Bot (Kotlin)/task">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Simple Chatty Bot (Kotlin)/task/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Simple Chatty Bot (Kotlin)/task/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../Simple Chatty Bot (Kotlin)/task/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

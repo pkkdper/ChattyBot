@@ -45,7 +45,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Lembas/out/production/classes" />
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Lembas/build/classes/java/main" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Lembas/src">
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Invoking functions/Lembas/src" isTestSource="false" />
