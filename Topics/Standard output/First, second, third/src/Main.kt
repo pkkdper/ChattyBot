@@ -1,3 +1,3 @@
 fun main() {
-    println("Hello")
+    TODO("Remove this line and write your solution here")
 }
