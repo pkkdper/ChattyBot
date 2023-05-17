@@ -1,34 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-Check_the_order" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-Check_the_order.main" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-Check_the_order.test" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-Define_a_for-loop" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-Define_a_for-loop.main" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-Define_a_for-loop.test" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-For-loop_definitions" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-For-loop_definitions.main" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-For-loop_definitions.test" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_longest_sequence" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_longest_sequence.main" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_longest_sequence.test" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_minimum_value_of_N_numbers" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_minimum_value_of_N_numbers.main" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_minimum_value_of_N_numbers.test" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_roots_of_equation" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_roots_of_equation.main" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_roots_of_equation.test" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_sum_of_integers_from_a_to_b" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_sum_of_integers_from_a_to_b.main" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-The_sum_of_integers_from_a_to_b.test" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-Theory" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-Theory.main" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).Topics-For_loop_and_ranges-Theory.test" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).util" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).util.main" target="11" />
-      <module name="Simple_Chatty_Bot_(Kotlin).util.test" target="11" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17" />
   </component>
 </project>
